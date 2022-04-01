@@ -3,13 +3,13 @@
 
     <header class="text-gray-600 body-font">
         <div class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center"> 
-            <div class="flex title-font items-center text-gray-900 mb-4 md:mb-0">                 
+            <div class="flex flex-col md:flex-row title-font items-center text-gray-900 mb-4 md:mb-0">                 
                 <img src="images/bloom_tree.png" alt="" width="90" height="90" /> 
                 <span class="ml-1 text-gray-700 text-4xl lg:text-5xl">BLOOM</span>                               
                 <span class="ml-3 text-gray-700 text-sm md:text-xl">GARDEN DESIGN</span> 
             </div>     
 
-            <div class="flex items-center text-base md:ml-auto md:mr-2">           
+            <div class="flex items-center text-base text-green-700 md:ml-auto md:mr-2">           
             <Link                
             v-if="$page.props.user"
                 :href="route('dashboard')"
@@ -35,7 +35,7 @@
         </div> 
     </header>
 
-            <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tarcking-wide md:tracking-widest">                 
+            <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest">                 
                 <Link class="mx-auto lg:mx-14 hover:underline" href="#">home</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="#">about</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="#">portfolio</Link>
