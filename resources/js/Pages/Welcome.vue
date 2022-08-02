@@ -1,3 +1,4 @@
+
 <template>
     <Head title="Welcome" />
 
@@ -46,6 +47,11 @@
                 <img src="images/watercolour_2.jpg" alt="" class="img-fluid" width="500" height="400" />
                 <img src="images/watercolour_3.jpg" alt="" class="img-fluid" width="500" height="400" />                 
             </div>
+
+           <div class="container-fluid mx-auto p-7 text-gray-700 text-lg mt-4">
+            <p>Award-winning garden design, build and maintenance. We will bring experience, artistry and discipline to your projects across the UK, from country gardens and city refuges to ground-breaking commercial spaces.</p>
+            </div>
+
     
 </template>
 
