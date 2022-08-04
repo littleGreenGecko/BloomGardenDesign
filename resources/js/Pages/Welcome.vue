@@ -54,9 +54,9 @@
 
     <footer class="text-gray-600 body-font">
   <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col">   
-    <p class="mx-auto text-sm">© Copyright The Bloom.      
+    <p class="mx-auto text-sm">© Copyright 2022 The Bloom      
     </p>
-    <span class="inline-flex space-x-3 mt-4 justify-center">
+    <span class="inline-flex space-x-3 mt-4 mb-9 justify-center">
       <a>
         <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
           <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
