@@ -1,7 +1,7 @@
 
 <template>
     <Head title="Welcome" />
-
+<body>
     <header class="text-gray-600 body-font">
         <div class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center"> 
             <div class="flex flex-col md:flex-row title-font items-center text-gray-900 mb-4 md:mb-0">                 
@@ -42,21 +42,22 @@
                 <Link class="mx-auto lg:mx-14 hover:underline" href="#">portfolio</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="#">contact</Link>
             </nav> 
-            <div class="container-fluid mx-auto items-center flex flex wrap flex-col md:flex-row md:justify-center lg:space-x-12">
+            <div class="container-fluid mx-auto items-center flex flex wrap flex-col lg:flex-row md:justify-center lg:space-x-12">
                 <img src="images/watercolour_1.jpg" alt="" class="img-fluid" width="500" height="400" />
                 <img src="images/watercolour_2.jpg" alt="" class="img-fluid" width="500" height="400" />
                 <img src="images/watercolour_3.jpg" alt="" class="img-fluid" width="500" height="400" />                 
             </div>
 
-           <div class="container-fluid mx-auto p-7 text-gray-700 text-lg mt-4 md:text-xl md:my-9 md:mx-7 md:leading-relaxed md:text-center">
-            <p>Award-winning garden design, build and maintenance. We will bring experience, artistry and discipline to your projects across the UK, from country gardens and city refuges to ground-breaking commercial spaces.</p>
+           <div class="container-fluid mx-auto p-7 text-gray-700 text-lg text-center mt-4 md:text-xl md:my-9 md:mx-7 md:leading-relaxed">
+            <p>AWARD-WINNING GARDEN DESIGN, BUILD AND MAINTENANCE. <br>
+               We will bring experience, artistry and discipline to your projects across the UK, from country gardens and city refuges to ground-breaking commercial spaces.</p>
             </div>
 
     <footer class="text-gray-600 body-font">
-  <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col">   
-    <p class="mx-auto text-sm">© Copyright 2022 The Bloom      
+  <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
+    <p class="mx-auto text-sm md:mx-0">© Copyright 2022 The Bloom      
     </p>
-    <span class="inline-flex space-x-3 mt-4 mb-9 justify-center">
+    <span class="inline-flex space-x-3 mt-4 mb-9 justify-center md:my-0">
       <a>
         <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
           <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
@@ -82,6 +83,7 @@
     </span>
   </div>
 </footer>
+</body>
 </template>
 
 <style scoped>
