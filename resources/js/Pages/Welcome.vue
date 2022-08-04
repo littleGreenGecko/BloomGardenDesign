@@ -48,7 +48,7 @@
                 <img src="images/watercolour_3.jpg" alt="" class="img-fluid" width="500" height="400" />                 
             </div>
 
-           <div class="container-fluid mx-auto p-7 text-gray-700 text-lg mt-4">
+           <div class="container-fluid mx-auto p-7 text-gray-700 text-lg mt-4 md:text-xl md:my-9 md:mx-7 md:leading-relaxed md:text-center">
             <p>Award-winning garden design, build and maintenance. We will bring experience, artistry and discipline to your projects across the UK, from country gardens and city refuges to ground-breaking commercial spaces.</p>
             </div>
 
