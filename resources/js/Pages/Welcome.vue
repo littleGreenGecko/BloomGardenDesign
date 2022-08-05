@@ -37,10 +37,10 @@
     </header>
 
             <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest">                 
-                <Link class="mx-auto lg:mx-14 hover:underline" href="#">home</Link>
-                <Link class="mx-auto lg:mx-14 hover:underline" href="#">about</Link>
-                <Link class="mx-auto lg:mx-14 hover:underline" href="#">portfolio</Link>
-                <Link class="mx-auto lg:mx-14 hover:underline" href="#">contact</Link>
+                <Link class="mx-auto lg:mx-14 hover:underline" href="/">home</Link>
+                <Link class="mx-auto lg:mx-14 hover:underline" href="/about">about</Link>
+                <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
+                <Link class="mx-auto lg:mx-14 hover:underline" href="/contact">contact</Link>
             </nav> 
             <div class="container-fluid mx-auto items-center flex flex wrap flex-col md:justify-center lg:flex-row lg:space-x-12 lg:mt-14 lg:justify-evenly">
                 <img src="images/watercolour_1.jpg" alt="" class="img-fluid" width="500" height="400" />
