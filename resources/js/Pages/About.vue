@@ -43,13 +43,22 @@
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/about">about</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/contact">contact</Link>
-            </nav> 
+            </nav>
+
+<!-- About Info -->
+<div class="container-fluid mx-auto p-7 text-gray-700  bg-neutral-50 text-lg text-center mt-4 md:text-xl md:my-9 md:mx-5 md:px-0 md:leading-relaxed">
+We are a values-driven, award-winning landscape design practice. We work on a range of projects across the UK encompassing high-end residential, public, historic and commercial spaces. 
+Understanding the spirit of the place is central to our approach, using vernacular materials, nearby nurseries and local craftspeople, so that the garden speaks of and is connected to its broader setting.
+</div>
+
+<!-- Team Info -->
 
             <footer class="text-gray-600 body-font">
       <!-- Copyrights -->
   <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
     <p class="mx-auto text-sm md:mx-0">© Copyright 2022 The Bloom      
     </p>
+    
     <!-- Social Media Links -->
     <span class="inline-flex space-x-3 mt-4 mb-9 justify-center md:my-0">
       <a>
