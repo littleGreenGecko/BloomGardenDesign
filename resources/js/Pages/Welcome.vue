@@ -3,13 +3,14 @@
     <Head title="Welcome" />
 <body>
     <header class="text-gray-600 body-font">
+      <!-- Company Name and Logo -->
         <div class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center"> 
             <div class="flex flex-col md:flex-row title-font items-center text-gray-900 mb-4 md:mb-0">                 
                 <img src="images/bloom_tree.png" alt="" width="90" height="90" /> 
                 <span class="ml-1 text-gray-700 text-4xl lg:text-5xl">BLOOM</span>                               
                 <span class="ml-3 text-gray-700 text-sm md:text-xl">GARDEN DESIGN</span> 
             </div>     
-
+            <!-- Log In and Register Links -->
             <div class="flex items-center text-base text-green-700 md:ml-auto md:mr-2">           
             <Link                
             v-if="$page.props.user"
@@ -35,28 +36,31 @@
             </div>            
         </div> 
     </header>
-
+            <!-- Main Navigation Links -->
             <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest">                 
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/">home</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/about">about</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/contact">contact</Link>
             </nav> 
+            <!-- Images -->
             <div class="container-fluid mx-auto items-center flex flex wrap flex-col md:justify-center lg:flex-row lg:space-x-12 lg:mt-14 lg:justify-evenly">
                 <img src="images/watercolour_1.jpg" alt="" class="img-fluid" width="500" height="400" />
                 <img src="images/watercolour_2.jpg" alt="" class="img-fluid" width="500" height="400" />
                 <img src="images/watercolour_3.jpg" alt="" class="img-fluid" width="500" height="400" />                 
             </div>
-
-           <div class="container-fluid mx-auto p-7 text-gray-700  bg-neutral-50 text-lg text-center mt-4 md:text-xl md:my-9 md:mx-5 md:px-0 md:leading-relaxed">
+          <!-- Business Description-->
+           <div class="container-fluid mx-auto p-7 text-gray-700  bg-neutral-50 text-center mt-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed">
             <p>AWARD-WINNING GARDEN DESIGN, BUILD AND MAINTENANCE. <br><br>
                We will bring experience, artistry and discipline to your projects across the UK, from country gardens and city refuges to ground-breaking commercial spaces.</p>
             </div>
 
     <footer class="text-gray-600 body-font">
+      <!-- Copyrights -->
   <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
     <p class="mx-auto text-sm md:mx-0">© Copyright 2022 The Bloom      
     </p>
+    <!-- Social Media Links -->
     <span class="inline-flex space-x-3 mt-4 mb-9 justify-center md:my-0">
       <a>
         <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
