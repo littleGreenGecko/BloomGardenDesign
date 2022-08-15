@@ -43,11 +43,11 @@
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/contact">contact</Link>
             </nav> 
-            <!-- Images -->
-            <div class="container-fluid mx-auto items-center flex flex wrap flex-col md:justify-center lg:flex-row lg:space-x-12 lg:mt-14 lg:justify-evenly">
-                <img src="images/watercolour_1.jpg" alt="" class="img-fluid" width="500" height="400" />
-                <img src="images/watercolour_2.jpg" alt="" class="img-fluid" width="500" height="400" />
-                <img src="images/watercolour_3.jpg" alt="" class="img-fluid" width="500" height="400" />                 
+            <!-- Main Images -->
+            <div class="container-fluid mx-auto items-center flex flex-col md:justify-center lg:flex-row lg:space-x-12 lg:mt-14 lg:justify-evenly">
+                <img src="images/mainImages/watercolour_1.jpg" alt="" class="img-fluid" width="500" height="400" />
+                <img src="images/mainImages/watercolour_2.jpg" alt="" class="img-fluid" width="500" height="400" />
+                <img src="images/mainImages/watercolour_3.jpg" alt="" class="img-fluid" width="500" height="400" />                 
             </div>
           <!-- Business Description-->
            <div class="container-fluid mx-auto p-7 text-gray-700  bg-neutral-50 text-center mt-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed">
