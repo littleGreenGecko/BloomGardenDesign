@@ -55,7 +55,7 @@
                We will bring experience, artistry and discipline to your projects across the UK, from country gardens and city refuges to ground-breaking commercial spaces.</p>
             </div>
 
-    <footer class="text-gray-600 body-font">
+    <footer class="text-gray-500 body-font">
       <!-- Copyrights -->
   <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
     <p class="mx-auto text-sm md:mx-0">© Copyright 2022 The Bloom      
