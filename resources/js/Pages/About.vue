@@ -46,15 +46,20 @@
             </nav>
 
 <!-- About Info -->
-<div class="container-fluid mx-auto p-7 text-gray-700  bg-neutral-50 text-center mt-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed lg:mx-40">
-<p>We are a values-driven, award-winning landscape design practice. We work on a range of projects across the UK encompassing high-end residential, public, historic and commercial spaces. 
+<div class="container px-5 pt-16 mx-auto">
+<div class="flex flex-col text-center w-full">
+      <h1 class="text-2xl font-medium title-font mb-4 text-gray-600">ABOUT</h1>    
+<div class="container-fluid mx-auto p-7 text-gray-700 bg-neutral-50 text-center mt-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed lg:mx-0">
+<p class="p-2">We are a values-driven, award-winning landscape design practice. We work on a range of projects across the UK encompassing high-end residential, public, historic and commercial spaces. 
 Understanding the spirit of the place is central to our approach, using vernacular materials, nearby nurseries and local craftspeople, so that the garden speaks of and is connected to its broader setting.</p>
+</div>
+</div>
 </div>
 
 <!-- Team Photos-->
 <div>
  <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
+  <div class="container px-5 py-20 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
       <h1 class="text-2xl font-medium title-font mb-4 text-gray-600">OUR TEAM</h1>      
     </div>
@@ -153,7 +158,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
   </div>
 </section> 
 </div> 
-<footer class="text-gray-600 body-font">
+<footer class="text-gray-500 body-font">
       <!-- Copyrights -->
   <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
     <p class="mx-auto text-sm md:mx-0">© Copyright 2022 The Bloom      
