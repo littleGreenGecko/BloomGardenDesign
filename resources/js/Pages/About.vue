@@ -48,9 +48,9 @@
 <!-- About Info -->
 <div class="container px-5 pt-16 mx-auto">
 <div class="flex flex-col text-center w-full">
-      <h1 class="text-2xl font-medium title-font mb-4 text-gray-600">ABOUT</h1>    
+      <h1 class="text-2xl font-medium title-font mb-4 text-gray-600">ABOUT US</h1>    
 <div class="container-fluid mx-auto p-7 text-gray-700 bg-neutral-50 text-center mt-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed lg:mx-0">
-<p class="p-2">We are a values-driven, award-winning landscape design practice. We work on a range of projects across the UK encompassing high-end residential, public, historic and commercial spaces. 
+<p class="md:px-3">We are a values-driven, award-winning landscape design practice. We work on a range of projects across the UK encompassing high-end residential, public, historic and commercial spaces. 
 Understanding the spirit of the place is central to our approach, using vernacular materials, nearby nurseries and local craftspeople, so that the garden speaks of and is connected to its broader setting.</p>
 </div>
 </div>
