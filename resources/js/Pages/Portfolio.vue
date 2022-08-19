@@ -36,138 +36,142 @@
             </div>            
         </div> 
     </header>
+
             <!-- Main Navigation Links -->
             <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest">                 
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/">home</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/about">about</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/contact">contact</Link>
-            </nav>
-<!-- Project Photos -->
+            </nav>            
+
+<!-- Project Photos and Info -->
             <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
-    <div class="flex flex-col text-center w-full mb-20">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Master Cleanse Reliac Heirloom</h1>
-      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
-    </div>
+  <div class="container px-5 pt-16 mx-auto">
+   <div class="flex flex-col text-center w-full">
+      <h1 class="text-2xl font-medium title-font mb-4 text-gray-600">OUR PROJECTS</h1>    
+<div class="container-fluid mx-auto p-7 text-gray-700 bg-neutral-50 text-center my-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed lg:mx-0">
+<p class="md:px-3">We see our projects as creative collaborations between the homeowner, our team and nature itself. We’ll work to bring your vision to life, whether that’s to create an extension of your home, an outdoor adventure or a living work of art.</p>
+</div>
+</div>
     <div class="flex flex-wrap -m-4">
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-1.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shooting Stars</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-1.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Wimbledon</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Luxury Garden</h1>
+            <p class="leading-relaxed">This garden is a real feast for the eyes, where scale and colour make an instant impact.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-2.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The Catalyzer</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-2.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Kensington</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Family Garden</h1>
+            <p class="leading-relaxed">A large, family back garden in London, re-designed as part of an overall house redevelopment.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-3.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">The 400 Blows</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-3.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Manchester</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Back Garden</h1>
+            <p class="leading-relaxed">Large specimen trees (craned into the garden, over the house) compliment the herbaceous planting.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-4.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Neptune</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-4.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Bath</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Terraced Garden</h1>
+            <p class="leading-relaxed">The different levels in this garden provide an opportunity for split-level entertaining and relaxing.</p>
           </div>
         </div>
       </div>         
-        <div class="lg:w-1/3 sm:w-1/2 p-4">
+        <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-5.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-5.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Cheltenham</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Entertaining Garden</h1>
+            <p class="leading-relaxed">The design and landscaping of this garden coincided with the installation of a garden room.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-6.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-6.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Cardiff</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Sculpture Garden</h1>
+            <p class="leading-relaxed">Two distinct Lucy Piper sculptures, surrounded by complementary planting adorn this large Cardiff Garden.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-7.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-7.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Bristol</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Town House</h1>
+            <p class="leading-relaxed">Natural screening and incorporated water feature in the centre of the garden.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-8.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-8.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">St.Ives</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Mediterranean Garden</h1>
+            <p class="leading-relaxed">This large, family garden has costal elements being full of colour and textures.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-9.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-9.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Winchester</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">High-End Large Garden</h1>
+            <p class="leading-relaxed">The design incorporates modern hard landscaping and area of planting. </p>
           </div>
         </div>
       </div>       
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-10.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-10.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Cambridge</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Water Feature Garden</h1>
+            <p class="leading-relaxed">Sophisticated outdoor lighting ensures this luxury garden looks as stunning by night as it does by day.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-11.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-11.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Oxford</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Back Garden</h1>
+            <p class="leading-relaxed">The design incorporates modern hard landscaping with a more traditional area of lawn and planting.</p>
           </div>
         </div>
       </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
+      <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="images/projectPhotos/portfolio-12.jpg">
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-12.jpg">
+          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Clapham</h2>
+            <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Modern House Garden</h1>
+            <p class="leading-relaxed">A beautiful, unique garden in the heart of Clapham, that truly mirrors the client's house interior style.</p>
           </div>
         </div>
       </div>
