@@ -43,8 +43,27 @@
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/about">about</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/contact">contact</Link>
-            </nav>            
-
+            </nav> 
+            
+            <!-- Contact Info-->
+            <div class="container-fluid px-5 pt-16 mx-auto">
+   <div class="flex flex-col grid grid-cols-1 md:grid-cols-2 text-center w-full">
+    <img src="images/contactImg/watercolour_4.jpg" alt="" class="img-fluid" width="500" height="400" />        
+<div class="container-fluid mx-auto p-7 text-gray-700 bg-neutral-50 text-center my-4 md:text-lg md:my-0 md:ml-5 md:mr-0 md:px-0 md:leading-relaxed lg:mx-0">    
+    <h1 class="text-2xl font-medium title-font my-4 text-gray-600">CONTACT US</h1>  
+<p class="md:px-3">If you would like to find out more, please phone or email us and our team will be delighted to respond to you as soon as possible.</p>
+<br><br>
+<p><strong>Telephone</strong></p>
+<a href="#">020 7350 2318</a>
+<br><br>
+<p><strong>Email</strong></p>
+<a href="mailto:info@blum.co.uk" target="_blank">info@blum.co.uk</a>
+<br><br>
+<p><strong>Address</strong></p>
+<p>8 Happy Rd, Cardiff, CF10 3NQ</p>
+</div>
+</div>
+  </div>
                 <footer class="text-gray-500 body-font">
       <!-- Copyrights -->
   <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
