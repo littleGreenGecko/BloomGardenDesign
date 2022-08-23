@@ -43,17 +43,18 @@
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/contact">contact</Link>
             </nav> 
-            <!-- Main Images -->
-            <div class="container-fluid mx-auto items-center flex flex-col md:justify-center lg:flex-row lg:space-x-12 lg:mt-14 lg:justify-evenly">
+
+            <!-- Main Images -->  
+            <div class="container-fluid px-5 pt-16 mx-auto items-center flex flex-col md:justify-center lg:flex-row lg:space-x-12 lg:mt-14 lg:justify-evenly">
                 <img src="images/mainImages/watercolour_1.jpg" alt="" class="img-fluid" width="500" height="400" />
                 <img src="images/mainImages/watercolour_2.jpg" alt="" class="img-fluid" width="500" height="400" />
                 <img src="images/mainImages/watercolour_3.jpg" alt="" class="img-fluid" width="500" height="400" />                 
             </div>
           <!-- Business Description-->
-           <div class="container-fluid mx-auto p-7 text-gray-700  bg-neutral-50 text-center mt-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed">
+           <div class="container-fluid px-5 p-12 mx-5 text-gray-700 bg-neutral-50 text-center mt-4 md:text-lg md:mx-10 md:px-0 md:leading-relaxed">
             <p>AWARD-WINNING GARDEN DESIGN, BUILD AND MAINTENANCE. <br><br>
                We will bring experience, artistry and discipline to your projects across the UK, from country gardens and city refuges to ground-breaking commercial spaces.</p>
-            </div>
+            </div>   
 
     <footer class="text-gray-500 body-font">
       <!-- Copyrights -->
