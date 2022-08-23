@@ -58,7 +58,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-1.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Wimbledon</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Luxury Garden</h1>
             <p class="leading-relaxed">This garden is a real feast for the eyes, where scale and colour make an instant impact.</p>
@@ -68,7 +68,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-2.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Kensington</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Family Garden</h1>
             <p class="leading-relaxed">A large, family back garden in London, re-designed as part of an overall house redevelopment.</p>
@@ -78,7 +78,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-3.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Manchester</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Back Garden</h1>
             <p class="leading-relaxed">Large specimen trees (craned into the garden, over the house) compliment the herbaceous planting.</p>
@@ -88,7 +88,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-4.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Bath</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Terraced Garden</h1>
             <p class="leading-relaxed">The different levels in this garden provide an opportunity for split-level entertaining and relaxing.</p>
@@ -98,7 +98,7 @@
         <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-5.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Cheltenham</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Entertaining Garden</h1>
             <p class="leading-relaxed">The design and landscaping of this garden coincided with the installation of a garden room.</p>
@@ -108,7 +108,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-6.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Cardiff</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Sculpture Garden</h1>
             <p class="leading-relaxed">Two distinct Lucy Piper sculptures, surrounded by complementary planting adorn this large Cardiff Garden.</p>
@@ -118,7 +118,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-7.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Bristol</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Town House</h1>
             <p class="leading-relaxed">Natural screening and incorporated water feature in the centre of the garden.</p>
@@ -128,7 +128,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-8.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">St.Ives</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Mediterranean Garden</h1>
             <p class="leading-relaxed">This large, family garden has costal elements being full of colour and textures.</p>
@@ -138,7 +138,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-9.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Winchester</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">High-End Large Garden</h1>
             <p class="leading-relaxed">The design incorporates modern hard landscaping and area of planting. </p>
@@ -148,7 +148,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-10.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Cambridge</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Water Feature Garden</h1>
             <p class="leading-relaxed">Sophisticated outdoor lighting ensures this luxury garden looks as stunning by night as it does by day.</p>
@@ -158,7 +158,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-11.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Oxford</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Back Garden</h1>
             <p class="leading-relaxed">The design incorporates modern hard landscaping with a more traditional area of lawn and planting.</p>
@@ -168,7 +168,7 @@
       <div class="lg:w-1/3 md:w-1/2 p-4">
         <div class="flex relative">
           <img alt="projects" class="absolute inset-0 w-full h-60 object-cover object-center" src="images/projectPhotos/portfolio-12.jpg">
-          <div class="px-6 py-8 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
+          <div class="px-4 py-3 relative z-10 w-full h-60 border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">Clapham</h2>
             <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Modern House Garden</h1>
             <p class="leading-relaxed">A beautiful, unique garden in the heart of Clapham, that truly mirrors the client's house interior style.</p>
