@@ -58,7 +58,7 @@
 
     <footer class="text-gray-500 body-font">
       <!-- Copyrights -->
-  <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
+  <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9 lg:mt-16">   
     <p class="mx-auto text-sm md:mx-0">© Copyright 2022 The Bloom      
     </p>
     <!-- Social Media Links -->
