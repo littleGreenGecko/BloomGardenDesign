@@ -49,29 +49,22 @@
             <div class="container-fluid px-5 pt-16 mx-auto">
    <div class="flex flex-col grid grid-cols-1 justify-items-center text-center w-full md:grid-cols-2">
     <img src="images/contactImg/watercolour_4.jpg" alt="garden image" class="img-fluid" width="600" height="500" />        
-<div class="container-fluid mx-auto p-7 text-gray-700 bg-neutral-50 text-center my-4 md:text-lg md:my-0 md:ml-5 md:mr-0 md:px-0 md:pt-0 md:leading-relaxed lg:mx-0">    
-    <h1 class="text-2xl font-medium title-font my-4 text-gray-600">CONTACT US</h1>  
-<p class="md:px-3">If you would like to find out more, please phone or email us and our team will be delighted to respond to you as soon as possible.</p>
-<br><br>
+<div class="container-fluid mx-auto p-7 text-gray-700 bg-neutral-50 text-center my-4 md:text-lg md:my-0 md:ml-5 md:mr-0 md:px-0 md:pt-0 md:leading-relaxed lg:mx-0 lg:w-3/4">    
+    <h1 class="text-2xl font-medium title-font my-4 text-gray-600 md:mb-10 md:mt-16">CONTACT US</h1>  
+<p class="md:px-3 lg:mx-6">If you would like to find out more, please phone or email us and our team will be delighted to respond to you as soon as possible.</p>
+<br><br><br>
 <p><strong>Telephone</strong></p>
 <a href="#">020 7350 2318</a>
-<br><br>
+<br><br><br>
 <p><strong>Email</strong></p>
 <a href="mailto:info@blum.co.uk" target="_blank" class="text-green-700 hover:underline">info@blum.co.uk</a>
-<br><br>
+<br><br><br>
 <p><strong>Address</strong></p>
 <p>8 Happy Rd, Cardiff, CF10 3NQ</p>
-</div>
-</div>
-  </div> 
-                <footer class="text-gray-500 body-font">
-                <!-- Copyrights -->
-  <div class="container-fluid mx-auto flex flex-wrap mt-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
-    <p class="mx-auto text-sm md:mx-0">© Copyright 2022 The Bloom      
-    </p>
-    
-    <!-- Social Media Links -->
-    <span class="inline-flex space-x-3 mt-4 mb-9 justify-center md:my-0">
+<br><br>
+<p><strong>Follow Us</strong></p>
+<!-- Social Media Links -->
+<span class="inline-flex space-x-3 justify-center md:mb-16">
       <a>
         <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
           <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
@@ -95,6 +88,14 @@
         </svg>
       </a>
     </span>
+</div>
+</div>
+  </div> 
+                <footer class="text-gray-500 body-font md:mt-96">
+                <!-- Copyrights -->
+  <div class="container-fluid mx-auto flex flex-wrap mb-5 pt-6 flex-col md:flex-row md:justify-between md:px-5 md:items-center md:mb-9">   
+    <p class="mx-auto text-sm md:mx-0">© Copyright 2022 The Bloom      
+    </p>   
   </div>
 </footer>
 </body>
