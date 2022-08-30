@@ -38,7 +38,7 @@
         </div> 
     </header>
             <!-- Main Navigation Links -->
-            <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest">                 
+            <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest lg:justify-evenly lg:text-2xl">                 
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/">home</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/about">about</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
@@ -47,7 +47,7 @@
 
 <!-- About Info -->
 <div class="container px-5 pt-16 mx-auto">
-<div class="flex flex-col text-center w-full">
+<div class="flex flex-col text-center w-full lg:mt-14">
       <h1 class="text-2xl font-medium title-font mb-4 text-gray-600">ABOUT US</h1>    
 <div class="container-fluid mx-auto p-7 text-gray-700 bg-neutral-50 text-center mt-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed lg:mx-0">
 <p class="md:px-3">We are a values-driven, award-winning landscape design practice. We work on a range of projects across the UK encompassing high-end residential, public, historic and commercial spaces. 
@@ -66,7 +66,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
     <div class="flex flex-wrap -m-4">
       <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Caroline Damson-Managing Director.jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Caroline Damson-Managing Director.jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Caroline Damson</h2>
             <h3 class="text-gray-500 mb-3">Managing Director</h3>            
@@ -75,7 +75,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
         </div>
         <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Amy Concorde-Communications (2).jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Amy Concorde-Communications (2).jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Amy Concorde</h2>
             <h3 class="text-gray-500 mb-3">Communications</h3>            
@@ -84,7 +84,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
         </div>      
       <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Ivy Sunburst-Operations Manager (2).jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Ivy Sunburst-Operations Manager (2).jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Ivy Sunburst</h2>
             <h3 class="text-gray-500 mb-3">Operations Manager</h3>            
@@ -93,7 +93,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
         </div>
         <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Sam Conference-Lead Designer.jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Sam Conference-Lead Designer.jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Sam Conference</h2>
             <h3 class="text-gray-500 mb-3">Lead Designer</h3>            
@@ -102,7 +102,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
         </div>
         <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Lisa Bramley-Senior Designer (2).jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Lisa Bramley-Senior Designer (2).jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Lisa Bramley</h2>
             <h3 class="text-gray-500 mb-3">Senior Designer</h3>            
@@ -111,7 +111,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
         </div>
         <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Luke Rochester-Studio Manager.jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Luke Rochester-Studio Manager.jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Luke Rochester</h2>
             <h3 class="text-gray-500 mb-3">Studio Manager</h3>            
@@ -120,7 +120,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
         </div>
         <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Laura Morello-Landscape Architect (2).jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Laura Morello-Landscape Architect (2).jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Laura Morello</h2>
             <h3 class="text-gray-500 mb-3">Landscape Architect</h3>            
@@ -129,7 +129,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
         </div>
       <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Katie Goldcot-Project Manager.jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Katie Goldcot-Project Manager.jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Katie Goldcot</h2>
             <h3 class="text-gray-500 mb-3">Project Manager</h3>          
@@ -138,7 +138,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
       </div>
       <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Philip Williams-General Maintenance Manager.jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Philip Williams-General Maintenance Manager.jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Philip Williams</h2>
             <h3 class="text-gray-500 mb-3">General Maintenance Manager</h3>           
@@ -147,7 +147,7 @@ Understanding the spirit of the place is central to our approach, using vernacul
       </div>
       <div class="p-4 lg:w-1/4 md:w-1/2">
         <div class="h-full flex flex-col items-center text-center">
-          <img alt="team" class="flex-shrink-0 rounded-lg w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Paul Cox-Maintenance Manager.jpg">
+          <img alt="team" class="flex-shrink-0 w-full h-100 object-cover object-center mb-4" src="images/teamPhotos/Paul Cox-Maintenance Manager.jpg">
           <div class="w-full">
             <h2 class="title-font font-medium text-lg text-gray-700">Paul Cox</h2>
             <h3 class="text-gray-500 mb-3">Maintenance Manager</h3>            
