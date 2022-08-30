@@ -37,7 +37,7 @@
         </div> 
     </header>
             <!-- Main Navigation Links -->
-            <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest">                 
+            <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest lg:justify-evenly lg:text-2xl">                 
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/">home</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/about">about</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
@@ -52,7 +52,7 @@
             </div>
           <!-- Business Description-->
            <div class="container-fluid px-5 p-12 mx-5 text-gray-700 bg-neutral-50 text-center mt-4 md:text-lg md:mx-10 md:px-0 md:leading-relaxed">
-            <p>AWARD-WINNING GARDEN DESIGN, BUILD AND MAINTENANCE. <br><br>
+            <p class="lg:text-xl">AWARD-WINNING GARDEN DESIGN, BUILD AND MAINTENANCE. <br><br>
                We will bring experience, artistry and discipline to your projects across the UK, from country gardens and city refuges to ground-breaking commercial spaces.</p>
             </div>   
 
