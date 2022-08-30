@@ -38,7 +38,7 @@
     </header>
 
             <!-- Main Navigation Links -->
-            <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest">                 
+            <nav class="container-fluid mx-auto flex flex-wrap p-5 flex-col md:flex-row md:ml-auto md:mr-auto justify-center text-gray-100 bg-gray-700 items-center text-lg md:text-xl tracking-wide md:tracking-widest lg:justify-evenly lg:text-2xl">                 
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/">home</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/about">about</Link>
                 <Link class="mx-auto lg:mx-14 hover:underline" href="/portfolio">portfolio</Link>
@@ -48,7 +48,7 @@
 <!-- Project Photos and Info -->
             <section class="text-gray-600 body-font">
   <div class="container px-5 pt-16 mx-auto">
-   <div class="flex flex-col text-center w-full">
+   <div class="flex flex-col text-center w-full lg:mt-14">
       <h1 class="text-2xl font-medium title-font mb-4 text-gray-600">OUR PROJECTS</h1>    
 <div class="container-fluid mx-auto p-7 text-gray-700 bg-neutral-50 text-center my-4 md:text-lg md:my-9 md:mx-5 md:px-0 md:leading-relaxed lg:mx-0">
 <p class="md:px-3">We see our projects as creative collaborations between the homeowner, our team and nature itself. We’ll work to bring your vision to life, whether that’s to create an extension of your home, an outdoor adventure or a living work of art.</p>
